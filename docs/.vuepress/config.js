@@ -75,7 +75,7 @@ module.exports = {
 
     lastUpdated: 'Останнє оновлення', // string | boolean
       // Assumes GitHub. Can also be a full GitLab url.
-    repo: 'https://github.com/InfectusProg/edu_db_labs_group2',
+    repo: 'https://github.com/BleNd85/edu_db_labs_group2_vlad',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     repoLabel: 'Github',
